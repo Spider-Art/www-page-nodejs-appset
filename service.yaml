@@ -2,7 +2,6 @@ kind: Service
 apiVersion: v1
 metadata:
   name: test-service
-  namespace: bbbtest
   labels:
     app: test
 spec:
